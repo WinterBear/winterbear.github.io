@@ -1,9 +1,9 @@
-#LegionCraft Wiki
+# LegionCraft Wiki
 
-##About the server
+## About the server
 
 Lorem ipsum
 
-##Pages
+## Pages
 
 No pages yet :D
