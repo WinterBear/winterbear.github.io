@@ -1,6 +1,6 @@
-#Item Types
+# Item Types
 
-##Tiers
+## Tiers
 
 |Tier|Description|
 |---|---|
@@ -42,7 +42,7 @@
 |Trophy|A Trophy won by a Player|
 
 
-##Effect Tags
+## Effect Tags
 
 |Tag|Description|
 |---|---|
