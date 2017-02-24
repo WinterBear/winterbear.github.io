@@ -12,7 +12,7 @@
 |Mythical|Ultra-rare items, these can almost never be found in the wilds|
 |Mysterious|An unknown tier|
 
-##Categories
+## Categories
 
 |Category|Description|
 |---|---|
