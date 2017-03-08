@@ -15,7 +15,7 @@ Gather Night Gear:
 
 # Winter Tasks
 By Winter we must have:
-  - Wooly Hats | Requires Web + Beefalo Wool
+  - Wooly Hats - Requires Web + Beefalo Wool
   - Thermal Stones
   - Tent
   - Ready to Kite against Deerclops
