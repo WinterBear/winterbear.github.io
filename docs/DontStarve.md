@@ -1,17 +1,11 @@
 # Don't Starve Plan
 
-# Base
-- 
-
 # Autumn Tasks
 Gather Night Gear:
   - Build net to gather fireflies
   - Build Miner Hat using fireflies and grass
   - Crock Pot
   - Alchemy Engine
-  - 
-  
-
 
 # Winter Tasks
 By Winter we must have:
@@ -21,7 +15,6 @@ By Winter we must have:
   - Ready to Kite against Deerclops
   - Many Rabbit Traps
   - Advanced farms (winter proof)
-  - 
 
 # Spring Tasks
   - Alternate food source to rabbits (Koelephant, Beefalo, Fishing, Birds)
