@@ -1,9 +1,6 @@
-# LegionCraft Wiki
-
-## About the server
-
-Lorem ipsum
+# Documents
 
 ## Pages
 
-No pages yet :D
+[Don't Starve](DontStarve)
+[WH Item Types](WHItemTypes)
