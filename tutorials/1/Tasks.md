@@ -5,7 +5,7 @@ Programming is complicated. Managing large amounts of source code can cause all 
 ![git bash](https://i.imgur.com/E6VrvIG.png)
 
 ## Installing Git
-Installing Git is pretty straightforward, the installer can be found at https://git-scm.com/downloads
+Installing Git is pretty straightforward, the installer can be found [here](https://git-scm.com/downloads)
 
 The first thing you should do when you have installed Git is to set your user name and email address. This is important because every Git commit uses this information, and changing old commits later is not a simple task. Open the git bash window and use the following commands to configure these:
 
