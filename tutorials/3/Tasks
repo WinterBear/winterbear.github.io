@@ -1,0 +1,15 @@
+# Testing
+
+Testing is incredibly important for any project. Through unit testing alone, you can ensure your application is working as intended at all times.
+
+## Unit Testing
+
+### Test Classes
+
+Test classes are composed of many individual test methods. These methods use JUnit Assertions to test that functionality is working.
+
+### Test Annotations
+
+### 
+
+## Integration Testing 
